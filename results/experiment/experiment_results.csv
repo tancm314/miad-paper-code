@@ -1,0 +1,4 @@
+Position,GroundTruthDeg,TriadDeg,QuestDeg,MiadDeg,TriadErrorDeg,QuestErrorDeg,MiadErrorDeg
+Position 1,330,328.38,328.37,330.21,-1.62,-1.63,0.20999999999998
+Position 2,60.56,59.38,59.4,60.7,-1.18,-1.16,0.140000000000001
+Position 3,150.96,152.75,152.74,150.71,1.78999999999999,1.78,-0.25
